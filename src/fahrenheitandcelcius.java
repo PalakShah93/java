@@ -7,9 +7,8 @@ public class fahrenheitandcelcius {
 		double celcius;
 		celcius = (fahrenheit - 32) * 5 / 9;
 		System.out.println(celcius);
-		//With fahrenheit having a value of 68.0, this would print 20.0.
-
 		
+		//With fahrenheit having a value of 68.0, this would print 20.0.
 		
 	}
 

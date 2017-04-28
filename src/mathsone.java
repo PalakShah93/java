@@ -14,7 +14,5 @@ public class mathsone {
 		System.out.println(1+100);
 		System.out.println(5*(1+1));
 		System.out.println("I am Palak");
-		
-		
 	}
 }
