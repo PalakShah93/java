@@ -15,11 +15,7 @@ public class MathMax {
 		System.out.println(parseint);
 		System.out.println(parseint1);
 		System.out.println(parseint2);
-		
-		System.out.println(Math.abs("morning".length())+7);
-		
-		
-		
+			
 	}
 
 }
