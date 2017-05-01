@@ -16,7 +16,7 @@ public class LogicalOperator {
 			System.out.println("Sorry! No discout for you. Better luck next time YAH Please pay $"+ticket+" at the counter");
 		}
 		
-		System.out.println("===================================================================");
+		System.out.println("======================================================================");
 		
 		if (age<15 || age>=60 && isStudent){
 			
