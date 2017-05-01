@@ -8,6 +8,7 @@ public class bank {
 		bankbalance = bankbalance-100;
 		
 		System.out.println(bankbalance);
+		System.out.println(bankbalance +2);
 	}
 
 }
