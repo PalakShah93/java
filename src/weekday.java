@@ -4,7 +4,7 @@ public class weekday {
 	public static void main(String[] args) {
 
 		int dayOfTheWeek=5;
-		boolean holiday;
+		boolean holiday=false;
 		
 		if(dayOfTheWeek<=5)
 		{
