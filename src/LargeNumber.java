@@ -1,69 +1,27 @@
 
 public class LargeNumber {
 
-	public static void main (String args[]){
-		
-		int x=100;
-		int y=30;
-		int z=20;
-		
-		
-		if(z>x || z>y){
-			
-			System.out.println(z+" is larger number");
-		}
-		
-		else if( x>y || x>z){
-			
-			System.out.println(x+ " Is the latger number");
-		}
-		
-		else if(y>x || y>z){
-			
-			System.out.println(y+ " is the larger number");
-		}
-		
-		
-		
-		System.out.println("=========================================");
-		
-		
-		
-		
-		if(y>x){
-			
-			System.out.println("The greater number is "+y);
-		} 
-		
 	
-		else if(x>y){
-			System.out.println("The greater number is "+x);
-		}
+	public static void main(String args[]){
 		
-		else if(z>x){
+		int number1=40;
+		int number2=1590;
+		int number3=10;
+		
+		if(number1>number2 && number1>number3){
 			
-			System.out.println("The greater number is "+z);
+			System.out.println(number1+ " is the larger number");
 		}
 		
-		else if(z>y){
-			System.out.println("The greater number is "+z);
-		}
-		
-		else if(y>z){
+		else if(number2>number3 && number2>number1){
 			
-			System.out.println("The greater number is "+y);
+			System.out.println(number2+ " is the larger number");
 		}
 		
-		else  if(x>z){
+		else if(number3>number2 && number3>number1){
 			
-			System.out.println("The greater number is "+x);
+			System.out.println(number3 + " is the larger number");
 		}
-		
-		
-	
-		
-		
-		
 	}
 	
 }
