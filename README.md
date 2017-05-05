@@ -1,4 +1,5 @@
-26/4/2017 >> DataTypes 
+Class 
+
+Object
 
 
-27/4/2017 >> Learned more on DataTypes
