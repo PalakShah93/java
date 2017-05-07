@@ -3,7 +3,7 @@ public class person {
 	
 	String firstname="Palak";
 	String lastname="Shah";
-	String fullname= firstname+lastname;
+	//String fullname= firstname+lastname;
 	
 	public void persons(){
 		
