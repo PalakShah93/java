@@ -24,6 +24,11 @@ public void message(){
 ```
 ## Inheritance
 
+When a new class (Sub Class) is derived from exisiting class (super class), this process is called inheritance. The new class uses the behavoiur of exisiting class. You can resume sone of the attributes of exisiting class. The format to add sub class is class subclass name extends super class name.
+
+Suppose A is super class and B is sub class then the format will be as below. 
+class B extends A {}
+
 
 ## Refrence Link
 
