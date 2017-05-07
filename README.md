@@ -22,6 +22,9 @@ public void message(){
 
 }
 ```
+## Inheritance
+
+
 ## Refrence Link
 
 http://docs.oracle.com/javase/tutorial/java/TOC.html
