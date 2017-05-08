@@ -16,3 +16,9 @@ public class food {
 	}
 
 }
+/* festival : Uttrayan, holi, navratri, Diwali, newyear, Independenceday, Republicday, dhulati 
+ * complanguages : Java, HTML, CSS, SCSS, dotNet, cSharp, python, 
+ * 
+ * 
+ * 
+ */
