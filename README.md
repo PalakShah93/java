@@ -38,6 +38,9 @@ A variable is consider as a container in which we store the value/data throught 
 Below is the list of data types:
 
 * int : 
+> int myNumber;
+> myNumber = 5;
+
 * boolean
 * char
 * double
