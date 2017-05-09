@@ -13,6 +13,8 @@ public class CountLength {
 		System.out.println(countlength + 5);
 		System.out.println(number/2 );
 		System.out.println(number1/2);
+		System.out.println(number/2 );
+
 	}
 
 }
