@@ -37,13 +37,19 @@ A variable is consider as a container in which we store the value/data throught 
 
 Below is the list of data types:
 
-* int : 
+* int : Plainly used for numbers 
 > int myNumber;
 > myNumber = 5;
 
-* boolean
-* char
-* double
+* boolean : Only used for true or false
+> boolean rain=true;
+
+* char:Used for single chanrecter 
+>char initial='P';
+
+* double : Used for number with decimal 
+>double percentage =73.5;
+
 * float
 * long
 * short
