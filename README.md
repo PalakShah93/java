@@ -1,6 +1,8 @@
 ## Class :
 
  Class is a template in which we can define objects. One class can have many opjects.  
+ 
+A class is nothing but a blueprint or a template for creating different objects which defines its properties and behaviors. Java class objects exhibit the properties and behaviors defined by its class. A class can contain fields and methods to describe the behavior of an object.
 
 ## Object : 
 
