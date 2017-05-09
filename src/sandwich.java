@@ -1,5 +1,5 @@
 
-public class sandwich extends food {
+public class sandwich extends food { // created a class called sandwich which will take the properties of class food
 	
 	public static void main (String agrs[]){
 		
