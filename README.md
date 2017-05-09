@@ -31,6 +31,10 @@ When a new class (Sub Class) is derived from exisiting class (super class), this
 Suppose A is super class and B is sub class then the format will be as below. 
 class B extends A {}
 
+## Variable
+
+A variable is consider as a container in which we store the value/data throught the program. Every variable is assigned to a data type which will say that what and which kind of value will be stored. 
+
 
 ## Refrence Link
 
