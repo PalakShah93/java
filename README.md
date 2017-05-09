@@ -36,7 +36,12 @@ class B extends A {}
 A variable is consider as a container in which we store the value/data throught the program. Every variable is assigned to a data type which will say that what and which kind of value will be stored. 
 
 Below is the list of data types:
-..* int
+
+* int
+* boolean
+* char
+* double
+* float
 
 
 ## Refrence Link
