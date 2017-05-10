@@ -1,6 +1,6 @@
 ## Class :
 
-A `Class` is a template in which we can define objects. One class can have many objects.  
+A `Class` is a template in which we can define objects. One class can have many objects. Objects are defined by arritibutes. 
  
 A `class` is nothing but a blueprint or a template for creating different objects which defines its properties and behaviors. Java class objects exhibit the properties and behaviors defined by its class. A class can contain fields and methods to describe the behavior of an object.
 
@@ -27,6 +27,8 @@ public void message(){
 
 ## Example of class and objects
 
+> class has objects and objects has attruibutes. 
+
 * festival : Uttrayan, Holi, Navratri, Diwali, WewYear, IndependenceDay, RepublicDay, Dhulati 
 * shape: square, triangle, rectangle, circle, pentagon, hexagon, octagon, star, heart, diamond, spade, club
 * phone: iPhone, Samsung, Nokia, HTC, Motorola, BlackBerry
@@ -39,6 +41,8 @@ public void message(){
 * language: Gujarati, Hindi, English, Malay, Tamil, Chinese, French, Punjabi, 
 * games: Badminton, Cricket, TableTennis, LawnTennis, Golf, Snooker, Ludo, Chess, Carrom
 * box: PencilBox, SoapBox, MagicBox, JwelleryBox, LunchBox
+* plastic: bottle, box, MobileCase, bag, purse, 
+
 
  
 ## Inheritance
