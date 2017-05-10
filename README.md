@@ -27,11 +27,14 @@ public void message(){
 
 ## Example of class and objects
 
-* festival : Uttrayan, holi, navratri, Diwali, newyear, Independenceday, Republicday, dhulati 
-* complanguages : Java, HTML, CSS, SCSS, dotNet, cSharp, python, 
-* Animals: cat, dog, cow, buffalo, monkey, elephant, hippo, 
-* food indian, japanese, korean, malaymuslim, chinese, thai, 
-* flower: rose, mogra, sunflower, lily, jasmin, lotus, champa,genda, 
+* festival : Uttrayan, Holi, Navratri, Diwali, WewYear, IndependenceDay, RepublicDay, Dhulati 
+* cars: Honda, Maruti, Suzuki, BMW, MBenz, Toyoto, Nano, Audi, Ford, Ferrai,Hundai
+* vegetables : Tomato, Onion, CaluliFlower
+* complanguages : Java, HTML, CSS, SCSS, DotNet, cSharp, Python, 
+* Animals: Cat, Dog, Cow, Buffalo, Monkey, Elephant, Hippo, Donkey, Goat,  
+* food Indian, Japanese, Korean, MalayMuslim, Chinese, Thai, 
+* flower: Rose, Orchid, SunFlower, Lily, Jasmin, Lotus, Tulip, 
+
  
 ## Inheritance
 
