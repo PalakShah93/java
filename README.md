@@ -28,12 +28,17 @@ public void message(){
 ## Example of class and objects
 
 * festival : Uttrayan, Holi, Navratri, Diwali, WewYear, IndependenceDay, RepublicDay, Dhulati 
+* shape: square, triangle, rectangle, circle, pentagon, hexagon, octagon, star, heart, diamond, spade, club
+* phone: iPhone, Samsung, Nokia, HTC, Motorola, BlackBerry
 * cars: Honda, Maruti, Suzuki, BMW, MBenz, Toyoto, Nano, Audi, Ford, Ferrai,Hundai
 * vegetables : Tomato, Onion, CaluliFlower
 * complanguages : Java, HTML, CSS, SCSS, DotNet, cSharp, Python, 
 * Animals: Cat, Dog, Cow, Buffalo, Monkey, Elephant, Hippo, Donkey, Goat,  
 * food Indian, Japanese, Korean, MalayMuslim, Chinese, Thai, 
 * flower: Rose, Orchid, SunFlower, Lily, Jasmin, Lotus, Tulip, 
+* language: Gujarati, Hindi, English, Malay, Tamil, Chinese, French, Punjabi, 
+* games: Badminton, Cricket, TableTennis, LawnTennis, Golf, Snooker, Ludo, Chess, Carrom
+* box: PencilBox, SoapBox, MagicBox, JwelleryBox, LunchBox
 
  
 ## Inheritance
