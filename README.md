@@ -42,6 +42,7 @@ public void message(){
 * games: Badminton, Cricket, TableTennis, LawnTennis, Golf, Snooker, Ludo, Chess, Carrom
 * box: PencilBox, SoapBox, MagicBox, JwelleryBox, LunchBox
 * plastic: bottle, box, MobileCase, bag, purse, 
+* fruits: Banana, Apple, 
 
 
  
