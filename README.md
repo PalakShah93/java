@@ -24,6 +24,15 @@ public void message(){
 
 }
 ```
+
+## Example of class and objects
+
+* festival : Uttrayan, holi, navratri, Diwali, newyear, Independenceday, Republicday, dhulati 
+* complanguages : Java, HTML, CSS, SCSS, dotNet, cSharp, python, 
+* Animals: cat, dog, cow, buffalo, monkey, elephant, hippo, 
+* food indian, japanese, korean, malaymuslim, chinese, thai, 
+* flower: rose, mogra, sunflower, lily, jasmin, lotus, champa,genda, 
+ 
 ## Inheritance
 
 When a new class (Sub Class) is derived from exisiting class (super class), this process is called inheritance. The new class uses the behavoiur of exisiting class. You can resume sone of the attributes of exisiting class. The format to add sub class is class subclass name extends super class name.
