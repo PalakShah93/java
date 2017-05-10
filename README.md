@@ -27,7 +27,7 @@ public void message(){
 
 ## Example of class and objects
 
-> class has objects and objects has attruibutes. 
+> class has objects and object consist of state and behaviour
 
 * festival : Uttrayan, Holi, Navratri, Diwali, WewYear, IndependenceDay, RepublicDay, Dhulati 
 * shape: square, triangle, rectangle, circle, pentagon, hexagon, octagon, star, heart, diamond, spade, club
