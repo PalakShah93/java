@@ -12,4 +12,3 @@ public class sandwich extends food { // created a class called sandwich which wi
 		}
 	}
 
-
