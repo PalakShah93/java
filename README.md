@@ -80,6 +80,9 @@ Below is the list of data types:
 * byte
 * String
 
+## Loops
+
+>ForLoop: repeate a statemnt for many times
 
 ## Refrence Link
 
