@@ -31,6 +31,8 @@ public void message(){
 
 * festival : Uttrayan, Holi, Navratri, Diwali, WewYear, IndependenceDay, RepublicDay, Dhulati 
 * shape: square, triangle, rectangle, circle, pentagon, hexagon, octagon, star, heart, diamond, spade, club
+* Hardware: chari, table, board, box, aircon
+* Software: antivirus, microsoftOffice, 
 * phone: iPhone, Samsung, Nokia, HTC, Motorola, BlackBerry
 * cars: Honda, Maruti, Suzuki, BMW, MBenz, Toyoto, Nano, Audi, Ford, Ferrai,Hundai
 * vegetables : Tomato, Onion, CaluliFlower
