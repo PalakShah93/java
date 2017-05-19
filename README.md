@@ -52,8 +52,6 @@ public void message(){
 * month: january, february, march, april, may, june, july, august
 * country: Singapore, India, USA, Canada, Japan, Honkong, Thailand, Malaysia 
 * tools: JIRA, 
-
-
  
 ## Inheritance
 
