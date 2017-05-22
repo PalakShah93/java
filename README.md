@@ -32,7 +32,7 @@ public void message(){
 * festival : Uttrayan, Holi, Navratri, Diwali, WewYear, IndependenceDay, RepublicDay, Dhulati 
 * shape: square, triangle, rectangle, circle, pentagon, hexagon, octagon, star, heart, diamond, spade, club
 * Hardware: chari, table, board, box, aircon
-* Software: antivirus, microsoftOffice, 
+* Software: antivirus, microsoftOffice,  
 * phone: iPhone, Samsung, Nokia, HTC, Motorola, BlackBerry
 * cars: Honda, Maruti, Suzuki, BMW, MBenz, Toyoto, Nano, Audi, Ford, Ferrai,Hundai
 * vegetables : Tomato, Onion, CaluliFlower
@@ -45,8 +45,14 @@ public void message(){
 * box: PencilBox, SoapBox, MagicBox, JwelleryBox, LunchBox
 * plastic: bottle, box, MobileCase, bag, purse, 
 * fruits: Banana, Apple, Mango, Papaya, WaterMelon, MuskMelon, 
-
-
+* vehical: car,bus,truck, cycle, rikshaw, airplane, ship,
+* furniture: chair, table, diningTable, wodrode, cupboard, cabinet, 
+* stationary: paper,pen, pencil, noteBook, eraser, compass, ruler, 
+* colour: red, pink, blue, yellow, orange, purple, black, white, golden, grey, 
+* month: january, february, march, april, may, june, july, august
+* country: Singapore, India, USA, Canada, Japan, Honkong, Thailand, Malaysia 
+* tools: JIRA, 
+* accecory: cdDriver, speaker, GPS, MobileHonder, MusicPlayer
  
 ## Inheritance
 
@@ -79,7 +85,6 @@ Below is the list of data types:
 * short
 * byte
 * String
-
 
 ## Refrence Link
 
