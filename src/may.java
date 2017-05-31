@@ -3,25 +3,25 @@ public class may {
 	
 	void godbless(){
 		
-		System.out.println("May God Bless you!!HaPpY BiRthDay...HaPpY BiRthDay.. ");
+		System.out.println("Test. ");
 	}
 	
 	void experience(){
 		
-		System.out.println("May this year be the best among the rest...");
+		System.out.println("test");
 	//	System.out.println("\n");
 	}
 	
-	void birthday(){
+	void test1(){
 		
-		System.out.println("HAVE A HAPPY HAPPY BIRTHDAY");
+		System.out.println("test");
 		
 	}
 
 	public static void main(String[] args) {
 
-		String special1="HaPpY BiRthDay";
-	    String special2="To You!!!!";
+		String special1="hm";
+	    String special2="Test!!";
 	    String itsfunday=special1 + " " + special2;
 	    
 	    System.out.println(itsfunday);
@@ -29,7 +29,7 @@ public class may {
 	    may obj=new may();
 	    obj.godbless();
 	    obj.experience();
-	    obj.birthday();
+	    obj.test1();
 	    
 	    
 	}
